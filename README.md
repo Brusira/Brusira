@@ -11,9 +11,9 @@
 - :pencil2: I’ve been learning programming since 2023, focusing on:
     ### Front-End | Data Science. </br></br>
 - :heart: Likes:
-    - <img> Watching Anime;
+    - <img height="20" width="20" src="https://github.com/Brusira/Brusira/blob/main/pikachu%20(pluspng.com).png" alt="Pikachu"> Watching Anime;
     - :musical_note: Listening to music (any genres & any languages);
-    - <img> Learning new things (phylosophy, culture, foreign languages, psychology, history, ...);
+    - <img height="20" width="20" src="https://github.com/Brusira/Brusira/blob/main/brainstorm%20(freepik%20-%20flaticon).png" alt="Brain"> Learning new things (phylosophy, culture, foreign languages, psychology, history, ...);
     - :books: Reading </br></br>
 
 - :computer: Languages & Tools that I know/used: </br></br>
