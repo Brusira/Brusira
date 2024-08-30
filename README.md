@@ -2,10 +2,8 @@
 
 
 <div align="center">
-    <img height="250" width="585" alt="'s GIF" align="center" src="">
+    <img height="300" width="585" alt="Kaminari Denki's GIF" align="center" src="https://media.tenor.com/nXqrTblGHhgAAAAM/demon-slayer-kimetsu-no-yaiba.gif">
 </div>
-<p align="center">...</p>
-</br>
 </br>
 
 ## About me
@@ -15,15 +13,10 @@
 - :heart: Likes:
     - <img> Watching Anime;
     - :musical_note: Listening to music (any genres & any languages);
-    - <img> Learning new things (phylosophy, culture, foreign languages, psychology, ...);
+    - <img> Learning new things (phylosophy, culture, foreign languages, psychology, history, ...);
     - :books: Reading </br></br>
 
-<div align="center">
-    <img height="250" width="585" alt="'s GIF" align="center" src="">
-</div>
-<p align="center">...</p> </br></br>
-
-- :computer: Languages & Tools: </br></br>
+- :computer: Languages & Tools that I know/used: </br></br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height=35 width=35 alt="VSCode's logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height=35 width=35 alt="HTML's logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height=35 width=35 alt="CSS's logo"/>
@@ -45,6 +38,11 @@
         <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Brusira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     </a>
 </p>
+
+<div align="center">
+    <img height="300" width="280" alt="Seventeen DK's GIF" align="center" src="https://media.tenor.com/29HLUdc_gu8AAAAM/dokyeom-dk.gif">
+</div>
+<p align="center">... That's it.</p>
         
 ## Contact:
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=plastic&logo=discord&logoColor=white)
