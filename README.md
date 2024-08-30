@@ -38,11 +38,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" height=35 width=35 alt="Kaggle's logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height=35 width=35 alt="R's logo"/> </br></br>
 
-<div align="center">
+##
+<p align="center">
     <a href="https://github.com/Brusira">
-    <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brusira&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=Brusira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+        <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brusira&layout=compact&langs_count=7&theme=dracula"/>
+        <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Brusira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    </a>
+</p>
         
 ## Contact:
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=plastic&logo=discord&logoColor=white)
