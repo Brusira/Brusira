@@ -43,8 +43,10 @@
 <p align="center">... That's it.</p>
         
 ## Contact:
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=plastic&logo=discord&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=platic&logo=linkedin&logoColor=white)
+<p>
+    <a href="https://discord.me/brrrrrrrr1" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=plastic&logo=discord&logoColor=white"/></a> 
+    <a href="https://www.linkedin.com/in/bruno-siratsute/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=platic&logo=linkedin&logoColor=white"/></a>
+</p>
 
 
 <!-- Sugestões sobre o que colocar no README de perfil do GitHub
