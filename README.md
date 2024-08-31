@@ -29,15 +29,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=35 width=35 alt="Python's logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height=35 width=35 alt="Pandas's logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" height=35 width=35 alt="Kaggle's logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height=35 width=35 alt="R's logo"/> </br></br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height=35 width=35 alt="R's logo"/> </br></br></br>
 
 ##
-<p align="center">
-    <a href="https://github.com/Brusira">
-        <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Brusira&layout=compact&langs_count=7&theme=dracula"/>
-        <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Brusira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    </a>
-</p>
+<a href="https://github.com/Brusira/Brusira">
+    <img height=140em align="center" src="https://github-readme-stats.vercel.app/api?username=Brusira&show_icons=true&theme=radical&bg_color=00000000&include_all_commits=true&rank_icon=github" />
+    <img height=140em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Brusira&show_icons=true&theme=radical&bg_color=00000000&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&card_width=320" />
+</a> </br></br>
 
 <div align="center">
     <img height="300" width="280" alt="Seventeen DK's GIF" align="center" src="https://media.tenor.com/29HLUdc_gu8AAAAM/dokyeom-dk.gif">
