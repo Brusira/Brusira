@@ -93,3 +93,62 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
+
+<!--
+# Brusira
+
+> Memorable developer positioning.
+
+## Header
+
+Hi, I'm **Brusira**. This README shares what I'm building, the tools I use, and the work I'm proud of.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Brusira&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=Brusira&theme=github-dark" alt="Brusira hero section" />
+  </picture>
+</p>
+## About Me
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=Brusira&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=Brusira&theme=github-dark" alt="Brusira about section" />
+  </picture>
+</p>
+## Skills
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=Brusira&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=Brusira&theme=github-dark" alt="Brusira stack section" />
+  </picture>
+</p>
+## GitHub Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=Brusira&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=Brusira&theme=github-dark" alt="Brusira stats section" />
+  </picture>
+</p>
+## Projects
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=Brusira&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=Brusira&theme=github-dark" alt="Brusira projects section" />
+  </picture>
+</p>
+## Heatmap
+
+## Connect
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=Brusira&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=Brusira&theme=github-dark" alt="Brusira social section" />
+  </picture>
+</p>
+-->
