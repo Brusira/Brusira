@@ -35,25 +35,30 @@ HTML • CSS • JavaScript • Sass • Tailwind CSS • PHP • Node.js • Ex
 
 🏢 Room Reservation System
 
-"projeto-play-escolar-2025" (https://github.com/Brusira/projeto-play-escolar-2025)
+[projeto-play-escolar-2025](https://github.com/Brusira/projeto-play-escolar-2025)
 
 System for managing companies, employees, rooms, and reservations, with a backend built using Node.js, Express, and Sequelize.
 
 📈 Time Series Analysis and Forecasting
 
-"alura-ds-analise-previsao-series-temporais" (https://github.com/Brusira/alura-ds-analise-previsao-series-temporais)
+[alura-ds-analise-previsao-series-temporais](https://github.com/Brusira/alura-ds-analise-previsao-series-temporais)
 
 Study project focused on data exploration, time series, forecasting, and results evaluation using Python.
 
 📊 Statistical Models with R
 
-"alura-estatistica-r-criar-comparar-modelos-estatisticos" (https://github.com/Brusira/alura-estatistica-r-criar-comparar-modelos-estatisticos)
+[alura-estatistica-r-criar-comparar-modelos-estatisticos](https://github.com/Brusira/alura-estatistica-r-criar-comparar-modelos-estatisticos)
 
 Study on creating and comparing statistical models using R.
 
 📫 Contact
 
-"LinkedIn" (https://www.linkedin.com/in/bruno-siratsute/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/bruno-siratsute/">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="30px" />
+  </a>
+</div>
+
 
 <div align="center">🌱 Learning and building.
 
