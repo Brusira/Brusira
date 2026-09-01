@@ -1,52 +1,63 @@
-# Hi there, I'm Bruno 👋
+Hello, I'm Bruno 👋
 
+<div align="center">🎓 Computer Science Student | 📊 Data Science | 🔐 Exploring Cybersecurity
 
-<div align="center">
-    <img height="300" width="585" alt="Kaminari Denki's GIF" align="center" src="https://media.tenor.com/nXqrTblGHhgAAAAM/demon-slayer-kimetsu-no-yaiba.gif">
+Building my foundation in programming, data, and development.
+
+</div>🙋 About Me
+
+I'm a Computer Science student and started programming in 2023. Since then, I've been studying programming, web development, data, and statistics.
+
+Currently, my main technical focus is Data Science, especially using Python to explore, transform, and analyze data.
+
+In recent months, I've also developed a growing interest in Cybersecurity. I'm still at the beginning of this journey and want to understand how systems work, where vulnerabilities arise, and how they can be protected.
+
+Outside of programming, I'm driven by curiosity. I enjoy anime, music, reading, philosophy, psychology, and history.
+
+🎯 Areas of Interest
+
+📊 Data Science
+
+Python • Pandas • Jupyter • R • Statistics • EDA • Visualization • Regression • Hypothesis Testing • Time Series
+
+🔐 Cybersecurity
+
+Area of interest under development.
+
+I want to understand how systems and applications can be compromised, how vulnerabilities arise, and how attacks can be identified and prevented. I'm still building my foundation and intend to turn this interest into practical studies and projects.
+
+💻 Development
+
+HTML • CSS • JavaScript • Sass • Tailwind CSS • PHP • Node.js • Express • Sequelize • MySQL
+
+🚀 Featured Projects
+
+🏢 Room Reservation System
+
+"projeto-play-escolar-2025" (https://github.com/Brusira/projeto-play-escolar-2025)
+
+System for managing companies, employees, rooms, and reservations, with a backend built using Node.js, Express, and Sequelize.
+
+📈 Time Series Analysis and Forecasting
+
+"alura-ds-analise-previsao-series-temporais" (https://github.com/Brusira/alura-ds-analise-previsao-series-temporais)
+
+Study project focused on data exploration, time series, forecasting, and results evaluation using Python.
+
+📊 Statistical Models with R
+
+"alura-estatistica-r-criar-comparar-modelos-estatisticos" (https://github.com/Brusira/alura-estatistica-r-criar-comparar-modelos-estatisticos)
+
+Study on creating and comparing statistical models using R.
+
+📫 Contact
+"LinkedIn" (https://www.linkedin.com/in/bruno-siratsute/)
+
+<div align="center">🌱 Learning and building.
+
+Thank you for visiting my profile! 🙌
+
 </div>
-</br>
-
-## About me
-- Pronouns: He/Him. :boy: </br></br>
-- :pencil2: I’ve been learning programming since 2023, focusing on:
-    ### Front-End | Data Science. </br></br>
-- :heart: Likes:
-    - <img height="20" width="20" src="https://github.com/Brusira/Brusira/blob/main/pikachu%20(pluspng.com).png" alt="Pikachu"> Watching Anime;
-    - :musical_note: Listening to music (any genres & any languages);
-    - <img height="20" width="20" src="https://github.com/Brusira/Brusira/blob/main/brainstorm%20(freepik%20-%20flaticon).png" alt="Brain"> Learning new things (phylosophy, culture, foreign languages, psychology, history, ...);
-    - :books: Reading </br></br>
-
-- :computer: Languages & Tools that I know/used: </br></br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height=35 width=35 alt="VSCode's logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height=35 width=35 alt="HTML's logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height=35 width=35 alt="CSS's logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=35 width=35 alt="JavaScript's logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height=35 width=35 alt="MySQL's logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height=35 width=35 alt="PHP's logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height=35 width=35 alt="SASS's logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height=35 width=35 alt="TailwindCSS's logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height=35 width=35 alt="Jupyter Notebook's logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=35 width=35 alt="Python's logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height=35 width=35 alt="Pandas's logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" height=35 width=35 alt="Kaggle's logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height=35 width=35 alt="R's logo"/> </br></br></br>
-
-##
-<a href="https://github.com/Brusira/Brusira">
-    <img height=140em align="center" src="https://github-readme-stats.vercel.app/api?username=Brusira&show_icons=true&theme=radical&bg_color=00000000&include_all_commits=true&rank_icon=github" />
-    <img height=140em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Brusira&show_icons=true&theme=radical&bg_color=00000000&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&card_width=320" />
-</a> </br></br>
-
-<div align="center">
-    <img height="300" width="280" alt="Seventeen DK's GIF" align="center" src="https://media.tenor.com/29HLUdc_gu8AAAAM/dokyeom-dk.gif">
-</div>
-<p align="center">... That's it.</p>
-        
-## Contact:
-<p>
-    <a href="https://discord.gg/mrjTAaqp" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=plastic&logo=discord&logoColor=white"/></a> 
-    <a href="https://www.linkedin.com/in/bruno-siratsute/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=platic&logo=linkedin&logoColor=white"/></a>
-</p>
 
 
 <!-- Sugestões sobre o que colocar no README de perfil do GitHub
