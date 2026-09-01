@@ -6,6 +6,7 @@ Building my foundation in programming, data, and development.
 
 </div>🙋 About Me
 
+
 I'm a Computer Science student and started programming in 2023. Since then, I've been studying programming, web development, data, and statistics.
 
 Currently, my main technical focus is Data Science, especially using Python to explore, transform, and analyze data.
@@ -51,6 +52,7 @@ Study project focused on data exploration, time series, forecasting, and results
 Study on creating and comparing statistical models using R.
 
 📫 Contact
+
 "LinkedIn" (https://www.linkedin.com/in/bruno-siratsute/)
 
 <div align="center">🌱 Learning and building.
