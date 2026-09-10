@@ -1,10 +1,101 @@
-Hello, I'm Bruno 👋
+# Hi, I'm Bruno! 👋
 
-<div align="center">🎓 Computer Science Student | 📊 Data Science | 🔐 Exploring Cybersecurity
+<div align="center">🎓 Computer Science Student  
+📊 Data Science  
+💻 Software Development  
+🔐 Exploring Cybersecurity
+
+I'm building my foundation in programming, development, data, and statistics through my degree, courses, and hands-on projects.</div>
+
+## 🙋 About me
+
+I'm a Computer Science student and started programming in 2023. Since then, I've been studying programming, web development, Data Science, and statistics.
+
+Currently, my main technical focus is on Data Science, especially using Python for data exploration, transformation, and analysis. I've also been expanding my knowledge in software development and building a foundation in web and backend technologies.
+
+Over the past few months, I've also developed a growing interest in Cybersecurity. I'm at the beginning of this journey and looking to better understand how systems and applications work, how vulnerabilities arise, and how they can be identified and protected against.
+
+Beyond technology, I'm interested in topics such as music, anime, reading, philosophy, psychology, and history.
+
+## 🎯 Areas of interest
+
+### 📊 Data Science
+
+- Python
+- Pandas
+- Jupyter
+- R
+- Statistics
+- Exploratory Data Analysis
+- Data Visualization
+- Regression
+- Time Series Analysis
+- Hypothesis Testing
+
+### 💻 Development
+
+- HTML
+- CSS
+- JavaScript
+- Sass
+- Tailwind CSS
+- PHP
+- Node.js
+- Express
+- Sequelize
+- MySQL
+- Git
+- GitHub
+
+### 🔐 Cybersecurity
+
+Area of interest in development.
+
+My goal is to understand how systems and applications can be compromised, how vulnerabilities arise, and how attacks can be identified and prevented. I'm still building my foundation and plan to turn this interest into studies and hands-on projects.
+
+## 🚀 Featured projects
+
+### 🏢 Room Booking System
+
+System developed during the TI Start course by Play Escolar in 2025, for managing companies, employees, rooms, and bookings.
+
+**Technologies:** Node.js, Express, Sequelize, MySQL, React, Axios, Bootstrap, and Reactstrap.
+
+[View project](https://github.com/Brusira/projeto-play-escolar-2025)
+
+### 📈 Time Series Analysis and Forecasting
+
+Study project focused on data exploration, time series analysis, forecasting, and results evaluation using Python.
+
+[View project](https://github.com/Brusira/alura-ds-analise-previsao-series-temporais)
+
+### 📊 Statistical Models with R
+
+Study project on building and comparing statistical models using R.
+
+[View project](https://github.com/Brusira/alura-estatistica-r-criar-comparar-modelos-estatisticos)
+
+## 🌱 Currently
+
+I'm studying, practicing, and building projects to turn academic knowledge into practical experience.
+
+My goal is to keep growing in technology, especially in the areas of software development, Data Science, and Cybersecurity.
+
+<div align="center">
+
+### 📫 Contact
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-siratsute/)
+  
+</div>
+
+<!-- Hello, I'm Bruno 👋
+
+🎓 Computer Science Student | 📊 Data Science | 🔐 Exploring Cybersecurity
 
 Building my foundation in programming, data, and development.
 
-</div>🙋 About Me
+🙋 About Me
 
 
 I'm a Computer Science student and started programming in 2023. Since then, I've been studying programming, web development, data, and statistics.
@@ -53,11 +144,7 @@ Study on creating and comparing statistical models using R.
 
 📫 Contact
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/bruno-siratsute/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="30px" />
-  </a>
-</div>
+
 
 
 <div align="center">🌱 Learning and building.
@@ -65,7 +152,7 @@ Study on creating and comparing statistical models using R.
 Thank you for visiting my profile! 🙌
 
 </div>
-
+-->
 
 <!-- Sugestões sobre o que colocar no README de perfil do GitHub
 
